@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SomenYT
 - 👀 I’m interested in Java scripts like You are an idiot and more
-- 🌱 I’m currently learning How to do good game in roblox studio or GAME OR APP to goole play
+- 🌱 I’m currently learning How to do good game in roblox studio or GAME OR APP to google play
 - 💞️ I’m looking to collaborate on Innerslotch or roblox and more
 - 📫 How to reach me just message to help me with Java script
 
