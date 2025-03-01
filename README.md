@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SomenYT
+- 👋 Hi, I’m @b1rl
 - 👀 I’m an average lua script lover
 - 🌱 I’m currently learning lua still but IT DOESNT MEANS THAT I CANT WRITE SMTH ON IT!!!!
 - 💞️ My dream is be developer but lol who cares?
