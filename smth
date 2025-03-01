@@ -1,0 +1,3 @@
+local name = io.read() io.write('I am so cool, ', name, '!\n').
+
+print(name)
